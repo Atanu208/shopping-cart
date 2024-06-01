@@ -29,6 +29,7 @@ MySql
 Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
 
 Some Screenshots for the project:
+
 Home Page
 ![image](https://github.com/Atanu208/shopping-cart/assets/56972986/2844bc27-b138-41c0-aa15-3d1446c00733)
 
